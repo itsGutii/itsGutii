@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsGutii
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on different programs to build knowledge
 - 📫 How to reach me ...
 
